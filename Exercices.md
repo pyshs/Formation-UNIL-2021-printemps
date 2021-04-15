@@ -14,3 +14,9 @@ vous avez un jeu de données (articles.zip ; compressées, donc à décompresser
 L'objectif est de construire un unique fichier CSV qui comprend : la date de l'article, son titre, le nombre de mots qu'il contient, et le nombre de fois où le terme "islamogauchisme" ou "islamo-gauchisme" est contenu. 
 
 **Aide**: vous avez toutes les briques de base pour faire cela, sauf peut-être le module os, à importer (import os), et qui a une fonction listant le contenu d'un dossier (os.listdir("./dossier")).
+
+## Séance 3
+
+1. Dans le tableau d'articles (corpus), ajouter une colonne qui correspond à la présence ou absence dans le titre du terme "islamo-gauchisme"
+2. Est-ce que les articles qui ont le terme dans le titre ont une taille ou une fréquence du terme différents de ceux qui ne le mentionnent pas dans le titre (proposer une représentation visuelle)
+3. Tracer une courbe d'évolution temporelle du nombre d'articles par journal 
