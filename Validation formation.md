@@ -10,6 +10,6 @@ Ce document comportera :
 
 1. Une brève contextualisation du questionnement de recherche.
 2. Une brève description de l'état de vos réflexions au début de cette formation, et des raisons de l'inscription.
-3. Une (ou un petit nombre) d'idées d'utilisation des approches évoquées pendant les séances sur des données, avec précision des jeux de données identifiées. Dans le cas où vous avez commencé à mettre en oeuvre ces traitements, une description de ceux-ci.
+3. Une (ou un petit nombre) d'idées d'utilisation des approches évoquées pendant les séances sur des données, avec précision des jeux de données identifiées. Dans le cas où vous avez commencé à mettre en oeuvre ces traitements, une description de ceux-ci. Potentiellement les étapes de la mise en oeuvre envisagée.
 4. Potentiellement, les limites perçues de ces approches par rapport aux interrogations, en particulier en comparaison avec d'autres stratégies.
 5. Les éléments manquant à la fin de la formation pour passer à la pratique.
