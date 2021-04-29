@@ -20,3 +20,10 @@ L'objectif est de construire un unique fichier CSV qui comprend : la date de l'a
 1. Dans le tableau d'articles (corpus), ajouter une colonne qui correspond à la présence ou absence dans le titre du terme "islamo-gauchisme"
 2. Est-ce que les articles qui ont le terme dans le titre ont une taille ou une fréquence du terme différents de ceux qui ne le mentionnent pas dans le titre (proposer une représentation visuelle)
 3. Tracer une courbe d'évolution temporelle du nombre d'articles par journal 
+
+
+## Séance 4
+
+1. Étudier l'effet du positionnement politique sur les deux variables d'intérêt, intérêt science et apport science
+2. Faire une régression logistique avec comme variable dépendante les personnes intéressées par la science
+3. Proposer une analyse des réponses recodées du champ libre sur ce qu'est la science (m_q29_1 à m_q29_29) : 
