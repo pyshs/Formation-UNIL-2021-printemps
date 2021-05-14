@@ -37,7 +37,7 @@ Cette séance prolonge la séance sur les statistiques pour s'intéresser aux tr
 
  
 
-### 13.05 - collecter les données sur internet et s’interfacer avec des API
+### 20.05 - collecter les données sur internet et s’interfacer avec des API
 
  
 
